@@ -1,0 +1,23 @@
+let imagemCenario;
+let imagemPersonagem;
+let cenario;
+let somDoJogo;
+let personagem;
+let imagemInimigo;
+let imagemInimigoGrande;
+let imagemInimigoVoador;
+let somDoPulo;
+let pontuacao;
+let imagemGameOver;
+let jogo;
+let cenaAtual = 'telaInicial';
+let cenas;
+let telainicial;
+let imagemTelaInicial;
+let fontTelaInicial;
+let botaoGerenciador;
+let vida;
+let imagemVida;
+let fita;
+
+const inimigos = [];
